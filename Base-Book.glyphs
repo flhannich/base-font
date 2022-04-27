@@ -176,14 +176,15 @@ R,
 F,
 E,
 g,
-a,
+xa,
 "/space/space k",
 B,
 saxw,
 A,
 "Å",
 tfrnj,
-j
+j,
+x
 );
 copyright = "Copyright © 2022 by Florian Hannich.";
 date = "2022-03-14 10:48:53 +0000";
@@ -2174,7 +2175,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2022-04-15 09:02:48 +0000";
+lastChange = "2022-04-19 13:49:17 +0000";
 layers = (
 {
 anchors = (
@@ -2265,7 +2266,7 @@ unicode = 0061;
 },
 {
 glyphname = aacute;
-lastChange = "2022-04-14 15:39:28 +0000";
+lastChange = "2022-04-19 13:30:32 +0000";
 layers = (
 {
 components = (
@@ -2278,14 +2279,14 @@ transform = "{1, 0, 0, 1, 157, 0}";
 }
 );
 layerId = "9DF75A15-0AF9-4389-BE6D-DBD1DB18A6A2";
-width = 547;
+width = 542;
 }
 );
 unicode = 00E1;
 },
 {
 glyphname = acircumflex;
-lastChange = "2022-04-14 15:39:28 +0000";
+lastChange = "2022-04-19 13:30:30 +0000";
 layers = (
 {
 components = (
@@ -2298,14 +2299,14 @@ transform = "{1, 0, 0, 1, 126, 0}";
 }
 );
 layerId = "9DF75A15-0AF9-4389-BE6D-DBD1DB18A6A2";
-width = 547;
+width = 542;
 }
 );
 unicode = 00E2;
 },
 {
 glyphname = adieresis;
-lastChange = "2022-04-14 15:38:05 +0000";
+lastChange = "2022-04-19 13:30:25 +0000";
 layers = (
 {
 components = (
@@ -2318,14 +2319,14 @@ transform = "{1, 0, 0, 1, 0, -15}";
 }
 );
 layerId = "9DF75A15-0AF9-4389-BE6D-DBD1DB18A6A2";
-width = 547;
+width = 542;
 }
 );
 unicode = 00E4;
 },
 {
 glyphname = agrave;
-lastChange = "2022-04-14 15:39:28 +0000";
+lastChange = "2022-04-19 13:30:30 +0000";
 layers = (
 {
 components = (
@@ -2338,14 +2339,14 @@ transform = "{1, 0, 0, 1, 130, 0}";
 }
 );
 layerId = "9DF75A15-0AF9-4389-BE6D-DBD1DB18A6A2";
-width = 547;
+width = 542;
 }
 );
 unicode = 00E0;
 },
 {
 glyphname = aring;
-lastChange = "2022-04-14 15:39:28 +0000";
+lastChange = "2022-04-19 13:30:32 +0000";
 layers = (
 {
 components = (
@@ -2358,14 +2359,14 @@ transform = "{1, 0, 0, 1, 204, 0}";
 }
 );
 layerId = "9DF75A15-0AF9-4389-BE6D-DBD1DB18A6A2";
-width = 547;
+width = 542;
 }
 );
 unicode = 00E5;
 },
 {
 glyphname = atilde;
-lastChange = "2022-04-14 15:39:28 +0000";
+lastChange = "2022-04-19 13:30:29 +0000";
 layers = (
 {
 components = (
@@ -2377,7 +2378,7 @@ name = tildecomb;
 }
 );
 layerId = "9DF75A15-0AF9-4389-BE6D-DBD1DB18A6A2";
-width = 547;
+width = 542;
 }
 );
 unicode = 00E3;
@@ -4309,7 +4310,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2022-04-14 11:58:03 +0000";
+lastChange = "2022-04-19 13:50:45 +0000";
 layers = (
 {
 layerId = "9DF75A15-0AF9-4389-BE6D-DBD1DB18A6A2";
